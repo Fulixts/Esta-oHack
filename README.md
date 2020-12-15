@@ -1,2 +1,2 @@
 # HackStation
-Repository from hack station form Facebook
+Repository from: hack station from Facebook
